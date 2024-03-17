@@ -1,2 +1,2 @@
 # thesis
-Thesis management website with thesis database.
+Thesis management system with thesis database.
